@@ -9,3 +9,6 @@ using an HC-06 module connected to pins 10/11 using a software serial port.
 
 Bluetooth output can be examined, for example, using a Bluetooth Terminal app on your
 smartphone and pairing with the HC-06 module.
+
+
+![wiring diagram](https://raw.githubusercontent.com/ingle/reed_sw_water_level_arduino/master/wiring.png)
